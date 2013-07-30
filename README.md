@@ -1,6 +1,6 @@
 ## What is this?
 
-This is a demonstration of Eventmachine and Redis Pub/Sub, with focus on the EM part.
+This is a demonstration of Eventmachine, Redis Pub/Sub, and evented URL calling with focus on the EM part.
 
 ## Requirements
 
